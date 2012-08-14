@@ -1,0 +1,1 @@
+./configure -prefix=/opt/newcross/arm-cx2450x-linux-gnueabi/arm-cx2450x-linux-gnueabi/sys-root/usr --build=i686-pc-linux-gnu --host=arm-cx2450x-linux-gnueabi --datadir=/usr/share --sysconfdir=/etc --sharedstatedir=/usr/com --localstatedir=/var/games
